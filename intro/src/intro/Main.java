@@ -45,7 +45,7 @@ public class Main {
 	       String sehir1="Ankara";
 	       String sehir2="Ýstanbul";
 	       sehir1=sehir2;
-	       sehir2="Ýzmir";
+	       sehir2="Erzurum";
 	       System.out.println(sehir1);
 	        
 	}	
